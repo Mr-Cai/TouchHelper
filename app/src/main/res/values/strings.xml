@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">触摸拖动与删除</string>
+    <string name="grid_sort">网格拖拽排序和滑动删除</string>
+    <string name="list_sort_and_delete">列表拖拽排序和滑动删除</string>
+</resources>
